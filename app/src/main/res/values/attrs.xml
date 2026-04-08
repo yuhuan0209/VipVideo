@@ -2,42 +2,42 @@
 <resources>
 
     <string-array name="decode_channel_text">
-        <item>线路1</item>
-        <item>线路2</item>
-        <item>线路3</item>
-        <item>线路4</item>
-        <item>线路5</item>
-        <item>线路6</item>
-        <item>线路7</item>
-        <item>线路8</item>
-        <item>线路9</item>
-        <item>线路10</item>
-        <item>线路11</item>
-        <item>线路13</item>
-        <item>线路14</item>
-        <item>线路15</item>
+        <item>虾米视频解析</item>
+        <item>七七云解析</item>
+        <item>Player-JY</item>
+        <item>789解析</item>
+        <item>极速解析</item>
+        <item>冰豆解析</item>
+        <item>973解析</item>
+        <item>CK</item>
+        <item>七哥解析</item>
+        <item>夜幕</item>
+        <item>盘古</item>
+        <item>Playm3u8</item>
+        <item>芒果TV1</item>
+        <item>芒果TV2</item>
+        <item>HLS解析</item>
         <item>线路16</item>
         <item>线路17</item>
         <item>线路18</item>
-        <item>线路19</item>
     </string-array>
 
     <string-array name="decode_channel_url">
-        <item>http://jx.618g.com/?url=</item>
-        <item>http://api.baiyug.vip/index.php?url=</item>
-        <item>http://www.wocao.xyz/index.php?url=</item>
-        <item>https://vip.hackmg.com/jx/index.php?url=</item>
-        <item>http://www.lan8888.cn/jx.php?url=</item>
-        <item>http://jiexi.92fz.cn/player/vip.php?url=</item>
-        <item>http://api.xcq91.top/?url=</item>
-        <item>http://aikan-tv.com/?url=</item>
-        <item>http://jx.jfysz.cn/jx.php/?url=</item>
-        <item>http://api.bbbbbb.me/yunjx/?url=</item>
-        <item>https://jiexi.071811.cc/jx.php?url=</item>
-        <item>http://yun.baiyug.cn/vip/index.php?url=</item>
-        <item>http://aikan-tv.com/?url=</item>
-        <item>http://api.pucms.com/?url=</item>
-        <item>http://xlyy100.com/xlyy.php?url=</item>
+        <item>https://jx.xmflv.com/?url=</item>
+        <item>https://jx.77flv.cc/?url=</item>
+        <item>https://jx.playerjy.com/?url=</item>
+        <item>https://jiexi.789jiexi.icu:4433/?url=</item>
+        <item>https://jx.2s0.cn/player/?url=</item>
+        <item>https://bd.jx.cn/?url=</item>
+        <item>https://jx.973973.xyz/?url=</item>
+        <item>https://www.ckplayer.vip/jiexi/?url=</item>
+        <item>https://jx.nnxv.cn/tv.php?url=</item>
+        <item>https://www.yemu.xyz/?url=</item>
+        <item>https://www.pangujiexi.com/jiexi/?url=</item>
+        <item>https://www.playm3u8.cn/jiexi.php?url=</item>
+        <item>https://video.isyour.love/player/getplayer?url=</item>
+        <item>https://im1907.top/?jx=</item>
+        <item>https://jx.hls.one/?url=</item>
         <item>http://www.a305.org/flv.php?url=</item>
         <item>http://000o.cc/jx/ty.php?url=</item>
         <item>http://www.82190555.com/video.php?url=</item>
